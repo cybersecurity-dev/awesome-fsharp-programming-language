@@ -2,7 +2,7 @@
   <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/F_Sharp_logo.svg" />
 </a></p>
 
-# Awesome F# Programming Language [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language)) Programming [Language](https://fsharp.org/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiV11_Gq6dZuF1KYJF-jkf1w&si=Mrd1DMzFrtI7qCbY) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fsharp/)
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
