@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# Awesome [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language)) Programming [Language](https://fsharp.org/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# **`Awesome`** [F#](https://wikipedia.org/wiki/F_Sharp_(programming_language)) Programming [Language](https://fsharp.org/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiV11_Gq6dZuF1KYJF-jkf1w&si=Mrd1DMzFrtI7qCbY) 
